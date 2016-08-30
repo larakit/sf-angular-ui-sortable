@@ -1,0 +1,15 @@
+{
+    "name": "larakit/sf-angular-ui-sortable",
+    "description": "[Larakit] [staticfiles] jQuery UI Sortable plugin wrapper",
+    "version": "2.0.0",
+    "license": "MIT",
+    "require":{
+        "larakit/sf-angular":"*",
+        "larakit/sf-jquery-ui":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
